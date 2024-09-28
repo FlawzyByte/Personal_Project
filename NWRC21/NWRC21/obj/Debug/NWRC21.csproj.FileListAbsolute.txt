@@ -1,0 +1,13 @@
+C:\Users\NoName\Downloads\NWRC21\NWRC21\bin\Debug\NWRC21.exe.config
+C:\Users\NoName\Downloads\NWRC21\NWRC21\bin\Debug\NWRC21.exe
+C:\Users\NoName\Downloads\NWRC21\NWRC21\bin\Debug\NWRC21.pdb
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.csproj.AssemblyReference.cache
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.Form1.resources
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.Payement.resources
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.Properties.Resources.resources
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.UserControl1.resources
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.Worksheet.resources
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.csproj.GenerateResource.cache
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.csproj.CoreCompileInputs.cache
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.exe
+C:\Users\NoName\Downloads\NWRC21\NWRC21\obj\Debug\NWRC21.pdb
